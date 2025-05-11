@@ -19,6 +19,7 @@ The first step taken by the team was to define the strategy through a "Value Pro
 
 ***
 ## Scope
+### UX person
 The application is designed for high school students who are exploring their future careers and need support in making informed decisions. It is suitable for students with clear interests as well as those who are still uncertain. It provides step-by-step guidance through vocational tests, career exploration tools, and scholarship information. It allows users to reflect on their strengths, compare study options, and access relevant, real-world data. It also considers different user contexts and motivations, ensuring the experience feels personal and supportive. In short, it is a versatile application that helps students navigate their academic choices with clarity and confidence.
 
 
