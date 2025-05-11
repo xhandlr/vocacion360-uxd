@@ -14,6 +14,8 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 
 ***
 ## Strategy
+The first step taken by the team was to define the strategy through a "Value Proposition Canvas," used to align the user needs with the proposed solution. This process allowed us to clearly identify our target market—high school students facing challenges in choosing their future career—and develop a product tailored to their realities. From the canvas, we observed key alignments such as the “fear of making the wrong choice” and the corresponding feature “comparison tools with objective data.” This connection helped us understand how to support users through clarity and personalization. Other early ideas, like integrating external advising networks, were discussed but ultimately not prioritized in the current version. This strategic process helped ensure the solution is not only functional but directly addresses the students' pains, gains, and real decision-making contexts.
+[Canvas de Propuesta de Valor - Facilitar Orientación Vocacional.pdf](https://github.com/user-attachments/files/20146656/Canvas.de.Propuesta.de.Valor.-.Facilitar.Orientacion.Vocacional.pdf)
 
 
 ***
