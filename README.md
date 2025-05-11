@@ -27,7 +27,7 @@ The application is designed for high school students who are exploring their fut
 ![UX Personas - Proyecto Vocación360 (1)](https://github.com/user-attachments/assets/6f662cf8-7fff-4f1e-9665-cc4a31a07089)
 ![UX Personas - Proyecto Vocación360 (3)](https://github.com/user-attachments/assets/1057760f-0e7e-4366-9be0-9d0ce44dc068)
 
-###Benchmarking
+### Benchmarking
 In order to develop an application that truly responds to the needs and expectations of high school students seeking vocational guidance, it was essential to conduct a thorough benchmarking analysis of existing platforms in the educational field. This process allowed us to evaluate the strengths and weaknesses of competing applications, such as Mifuturo, EligeCarrera, CarrerasUniversitarias, and BeneficiosEstudiantiles, identifying both useful features and areas for improvement.
 
 Through this analysis, we recognized valuable elements to include in our product—such as scholarship search tools, personalized filters based on user profiles, and centralized access to undergraduate program and scholarship information. At the same time, we identified key pain points in existing platforms, such as unclear test results, excessive visual noise, and non-functional buttons, which we aim to eliminate from our own design.
