@@ -122,7 +122,22 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ### 7.1. Interface Evolution
 
-**TO-DO:** 
+## Interface Evolution Process: Explanations and Key Reasons for Modifications
+
+In the initial versions of the interface, we included a top navigation bar with the following options: Home, Careers, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project’s scope, we decided to remove “Points of Interest” and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
+
+Our second consideration was the target audience: high school students seeking vocational guidance. These young users are often confused or overwhelmed, and requesting them to create an account or enter personal information at the outset might discourage them from engaging further. To avoid early abandonment of the platform, we chose to simplify access as much as possible.
+
+Additionally, between the wireframes and the final prototype, we made adjustments to margins and spacing to better align with web design standards seen in similar informational websites. These changes improve readability and the overall browsing experience.
+
+In our competitive benchmarking, we prioritized a cool color palette—meant to convey calmness and reflection—because we believe career decisions should be approached thoughtfully and without external pressure. We also introduced value-added tools compared to our competitors: the ability to compare careers and download test results for free, without requiring registration.
+
+Finally, a survey conducted at a public high school revealed that most students didn’t know where to find information about scholarships and financial aid. To support them at this critical stage, we created the “Benefits” section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program’s official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
+
+Attached below is the spreadsheet with the survey responses on vocational guidance:
+
+
+[Survey](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing)
 
 ### 7.2. High Definition Interfaces
 
