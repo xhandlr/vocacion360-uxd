@@ -113,7 +113,7 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ## Interface Evolution Process: Explanations and Key Reasons for Modifications
 
-In the initial versions of the interface, we included a top navigation bar with the following options: Home, undergraduate programs, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project's scope, we decided to remove "Points of Interest" and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
+In the initial versions of the interface, we included a top navigation bar with the following options: Home, Undergraduate Programs, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project's scope, we decided to remove "Points of Interest" and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
 
 Our second consideration was the target audience: high school students seeking vocational guidance. These young users are often confused or overwhelmed, and requesting them to create an account or enter personal information at the outset might discourage them from engaging further. To avoid early abandonment of the platform, we chose to simplify access as much as possible.
 
