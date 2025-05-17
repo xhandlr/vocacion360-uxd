@@ -6,19 +6,18 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 - [1. Introduction](#1-introduction)
 - [2. Team & Roles](#2-team--roles)
 - [3. Strategy](#3-strategy)
-   - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
+  - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
 - [4. Scope](#4-scope)
-   - [4.1. UX Personas](#41-ux-personas)
-   - [4.2. Benchmarking](#42-benchmarking)
+  - [4.1. UX Personas](#41-ux-personas)
+  - [4.2. Benchmarking](#42-benchmarking)
 - [5. Structure](#5-structure)
-   - [5.1. User Mental Model](#51-user-mental-model)
-   - [5.2. Navigation Flow](#52-navigation-flow)
+  - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
-   - [6.1. Customer Journey Map](#61-customer-journey-map)
-   - [6.2. Low-Fi Wireframes](#62-low-fi-wireframes)
+  - [6.1. Customer Journey Map](#61-customer-journey-map)
+  - [6.2. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#7-surface)
-   - [7.1. Interface Evolution](#71-interface-evolution)
-   - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
+  - [7.1. Interface Evolution](#71-interface-evolution)
+  - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
 
 ---
 
@@ -54,7 +53,7 @@ From the canvas, we observed key alignments such as the "fear of making the wron
 
 This strategic process helped ensure the solution is not only functional but directly addresses the students' pains, gains, and real decision-making contexts.
 
-![Value Proposition Canvas](./files/strategy/Canvas_de_Propuesta_de_Valor.png)
+![Canvas de Propuesta de Valor - Facilitar Orientacion Vocacional pdf](https://github.com/user-attachments/assets/31b3a1dc-e298-4f0d-beb7-5ae7a16d7860)
 
 ---
 
@@ -68,11 +67,11 @@ It allows users to reflect on their strengths, compare study options, and access
 
 Below are our three user personas, representing different types of students with diverse needs and circumstances:
 
-![Jorge Muñoz](./files/scope/UX_Personas_0.png)
+![UX Personas - Proyecto Vocación360](https://github.com/user-attachments/assets/68fee6e1-722e-40c9-92fc-dc0cea22aae2)
 
-![Catalina González](./files/scope/UX_Personas_1.png)
+![UX Personas - Proyecto Vocación360 (1)](https://github.com/user-attachments/assets/6f662cf8-7fff-4f1e-9665-cc4a31a07089)
 
-![Sofía Araya](./files/scope/UX_Personas_2.png)
+![UX Personas - Proyecto Vocación360 (3)](https://github.com/user-attachments/assets/1057760f-0e7e-4366-9be0-9d0ce44dc068)
 
 ### 4.2. Benchmarking
 
@@ -82,23 +81,13 @@ Through this analysis, we recognized valuable elements to include in our product
 
 By leveraging these insights, we are building an application that not only avoids the common pitfalls of existing tools but also enhances the user experience through features like undergraduate program comparisons, personalized recommendations, and notifications based on individual profiles. Benchmarking has therefore played a critical role in aligning our solution with both market standards and user-centered design principles, ensuring that Vocación360 delivers a clear, relevant, and empowering path toward informed academic decision-making.
 
-![Benchmarking Analysis](./files/scope/Benchmarking_0.png)
+![Benchmarking](https://github.com/user-attachments/assets/4e59b7ac-8cdb-40a8-bcae-f5437dd645e2)
 
 ---
 
 ## 5. Structure
 
-### 5.1. User Mental Model
-
-The User Mental Model helps us understand how our target users (Jorge, Catalina, and Sofía) conceptualize the vocational guidance process and expect our application to function. This insight allows us to design interfaces that match their expectations and cognitive patterns.
-
-![User Mental Model - Page 1](./files/structure/Modelo_Mental_0.png)
-
-![User Mental Model - Page 2](./files/structure/Modelo_Mental_1.png)
-
-![User Mental Model - Page 3](./files/structure/Modelo_Mental_2.png)
-
-### 5.2. Navigation Flow
+### 5.1. Navigation Flow
 
 The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore Careers (with filters by study area, interests, and skills, as well as career comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
 
@@ -124,7 +113,7 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ## Interface Evolution Process: Explanations and Key Reasons for Modifications
 
-In the initial versions of the interface, we included a top navigation bar with the following options: Home, Careers, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project’s scope, we decided to remove “Points of Interest” and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
+In the initial versions of the interface, we included a top navigation bar with the following options: Home, Careers, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project's scope, we decided to remove "Points of Interest" and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
 
 Our second consideration was the target audience: high school students seeking vocational guidance. These young users are often confused or overwhelmed, and requesting them to create an account or enter personal information at the outset might discourage them from engaging further. To avoid early abandonment of the platform, we chose to simplify access as much as possible.
 
@@ -132,7 +121,7 @@ Additionally, between the wireframes and the final prototype, we made adjustment
 
 In our competitive benchmarking, we prioritized a cool color palette—meant to convey calmness and reflection—because we believe career decisions should be approached thoughtfully and without external pressure. We also introduced value-added tools compared to our competitors: the ability to compare careers and download test results for free, without requiring registration.
 
-Finally, a survey conducted at a public high school revealed that most students didn’t know where to find information about scholarships and financial aid. To support them at this critical stage, we created the “Benefits” section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program’s official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
+Finally, a survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
 
 Attached below is the spreadsheet with the survey responses on vocational guidance:
 
