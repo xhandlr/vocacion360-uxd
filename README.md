@@ -43,6 +43,9 @@ By leveraging these insights, we are building an application that not only avoid
 
 
 ***
+## Skeleton
+
+
 ## Interface Evolution Process: Explanations and Key Reasons for Modifications
 In the initial versions of the interface, we included a top navigation bar with the following options: Home, Careers, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project’s scope, we decided to remove “Points of Interest” and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
 
@@ -56,10 +59,6 @@ Finally, a survey conducted at a public high school revealed that most students 
 
 Attached below is the spreadsheet with the survey responses on vocational guidance:
 https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing 
-
-
-***
-## Skeleton
 
 
 ***
