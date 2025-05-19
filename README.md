@@ -67,11 +67,11 @@ It allows users to reflect on their strengths, compare study options, and access
 
 Below are our three user personas, representing different types of students with diverse needs and circumstances:
 
-![UX Personas - Proyecto Vocación360](https://github.com/user-attachments/assets/68fee6e1-722e-40c9-92fc-dc0cea22aae2)
+![UX Personas - Proyecto Vocación360](/files/scope/1.png)
 
-![UX Personas - Proyecto Vocación360 (1)](https://github.com/user-attachments/assets/6f662cf8-7fff-4f1e-9665-cc4a31a07089)
+![UX Personas - Proyecto Vocación360 (1)](/files/scope/2.png)
 
-![UX Personas - Proyecto Vocación360 (3)](https://github.com/user-attachments/assets/1057760f-0e7e-4366-9be0-9d0ce44dc068)
+![UX Personas - Proyecto Vocación360 (3)](/files/scope/3.png)
 
 ### 4.2. Benchmarking
 
@@ -99,7 +99,9 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ### 6.1. Customer Journey Map
 
-**TO-DO:** 
+<p align="center">
+  <img src="/files/skeleton/CJM.png" alt="CJM">
+</p>
 
 ### 6.2. Low-Fi Wireframes
 
