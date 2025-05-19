@@ -39,7 +39,7 @@ Zihao Xiao - Analist
 
 Gerson Urrea - Designer
 
-Carlos Pradenas - Expositor
+Carlos Pradenas - Presenter
 
 ---
 
@@ -53,7 +53,7 @@ From the canvas, we observed key alignments such as the "fear of making the wron
 
 This strategic process helped ensure the solution is not only functional but directly addresses the students' pains, gains, and real decision-making contexts.
 
-![Canvas de Propuesta de Valor - Facilitar Orientacion Vocacional pdf](https://github.com/user-attachments/assets/31b3a1dc-e298-4f0d-beb7-5ae7a16d7860)
+![Value Canvas](https://github.com/user-attachments/assets/31b3a1dc-e298-4f0d-beb7-5ae7a16d7860)
 
 ---
 
@@ -91,7 +91,7 @@ By leveraging these insights, we are building an application that not only avoid
 
 The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore undergraduate programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
 
-![Site Map](./files/structure/Site_Map_0.png)
+![Site Map](/files/structure/Site-Map.png)
 
 ---
 
