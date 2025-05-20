@@ -99,6 +99,27 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ### 6.1. Customer Journey Map
 
+The Customer Journey Map outlines the stages and interactions a user has with our product — from the moment they discover it to when they form their final opinion based on their experience.
+
+Below are the key stages we identified:
+
+🔍 Awareness
+The user discovers the product, either through a recommendation, social media advertisement, or related searches. This is the first point of contact with the brand.
+
+🤔 Consideration
+After discovering it, the user evaluates whether to use the product, comparing it with similar services. At this stage, they may still be influenced by additional information, reviews, or recommendations.
+
+✅ Decision
+The user chooses to try the product and begins interacting with it. During this phase, they form impressions based on real usage, which will shape their final opinion.
+
+💬 Loyalty & Advocacy
+After completing their experience, the user forms a definitive opinion. This will influence whether they use the product again and whether they recommend it to others — potentially becoming a brand advocate.
+
+
+
+
+
+
 <p align="center">
   <img src="/files/skeleton/CJM.png" alt="CJM">
 </p>
