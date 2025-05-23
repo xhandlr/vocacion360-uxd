@@ -124,6 +124,15 @@ After completing their experience, the user forms a definitive opinion. This wil
   <img src="/files/skeleton/CJM.png" alt="CJM">
 </p>
 
+#### 6.1.1 Awareness
+In the awareness stage, users are first discovering the platform and exploring its offerings. The home screen provides an entry point with visual categories and quick access to the main tools. The career search tool allows users to browse through available programs, creating initial engagement and interest.
+
+<p align="center">
+  <img src="/files/skeleton/home.png" alt="Home">
+</p>
+<p align="center">
+  <img src="/files/skeleton/buscador carrera.png" alt="buscador carrera">
+</p>
 ### 6.2. Low-Fi Wireframes
 
 **TO-DO:** 
