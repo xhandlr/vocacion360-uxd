@@ -146,6 +146,22 @@ In the consideration stage, users begin comparing options. The interest test hel
   <img src="/files/skeleton/lista carreras.png" alt="lista carreras">
 </p>
 
+#### 6.1.3 Decision
+During the decision stage, users require detailed and comparative information to choose the best program. The program detail screen provides in-depth information about each program. The comparator and comparison table enable side-by-side evaluation. Information on scholarships and benefits supports practical decision-making.
+<p align="center">
+  <img src="/files/skeleton/informacion carrera.png" alt="informacion carrera">
+</p>
+<p align="center">
+  <img src="/files/skeleton/comparador.png" alt="comparador">
+</p>
+<p align="center">
+  <img src="/files/skeleton/tabla comparativa.png" alt="tabla comparativa">
+</p>
+<p align="center">
+  <img src="/files/skeleton/beneficios.png" alt="beneficios">
+</p>
+
+
 
 
 
