@@ -161,6 +161,14 @@ During the decision stage, users require detailed and comparative information to
   <img src="/files/skeleton/beneficios.png" alt="beneficios">
 </p>
 
+#### 6.1.4 Loyalty and Advocacy
+In the Loyalty and Advocacy phase, the results screen includes two key actions: downloading and sharing. These features encourage users to keep their personalized recommendations and to share their experience through social media or direct links. This supports user retention, increases platform visibility, and promotes engagement through peer influence.
+<p align="center">
+  <img src="/files/skeleton/compartir resultados.png" alt="compartir resultados">
+</p>
+
+
+
 
 
 
