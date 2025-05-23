@@ -133,6 +133,22 @@ In the awareness stage, users are first discovering the platform and exploring i
 <p align="center">
   <img src="/files/skeleton/buscador carrera.png" alt="buscador carrera">
 </p>
+
+#### 6.1.2 Consideration
+In the consideration stage, users begin comparing options. The interest test helps them reflect on their preferences, while the results offer personalized recommendations. Additionally, the list of careers supports users in exploring different paths based on filters and suggestions.
+<p align="center">
+  <img src="/files/skeleton/test intereses.png" alt="test intereses">
+</p>
+<p align="center">
+  <img src="/files/skeleton/resultado test.png" alt="resultado test">
+</p>
+<p align="center">
+  <img src="/files/skeleton/lista carreras.png" alt="lista carreras">
+</p>
+
+
+
+
 ### 6.2. Low-Fi Wireframes
 
 **TO-DO:** 
