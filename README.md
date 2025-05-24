@@ -53,9 +53,6 @@ We used the **Value Proposition Canvas** to align these needs with our proposed 
 
 Students' main fear is not just making the wrong choice, but **having no choice at all** due to low PAES scores. Therefore, the solution must go beyond functionality and directly address their real pains and needs. **Vocación360** is an all-in-one platform that provides free access to scholarship information, vocational tests, career data, and university comparison tools, including metrics like employability, average salary, and accreditation. It does not require registration, and results are downloaded locally so students can keep their personal journey.
 
-
-![Value Canvas](https://github.com/user-attachments/assets/31b3a1dc-e298-4f0d-beb7-5ae7a16d7860)
-
 ---
 
 ## 4. Scope
@@ -68,12 +65,6 @@ It allows users to reflect on their strengths, compare study options, and access
 
 Below are our three user personas, representing different types of students with diverse needs and circumstances:
 
-![UX Personas - Proyecto Vocación360](/files/scope/1.png)
-
-![UX Personas - Proyecto Vocación360 (1)](/files/scope/2.png)
-
-![UX Personas - Proyecto Vocación360 (3)](/files/scope/3.png)
-
 ### 4.2. Benchmarking
 
 In order to develop an application that truly responds to the needs and expectations of high school students seeking vocational guidance, it was essential to conduct a thorough benchmarking analysis of existing platforms in the educational field. This process allowed us to evaluate the strengths and weaknesses of competing applications, such as Mifuturo, EligeCarrera, CarrerasUniversitarias, and BeneficiosEstudiantiles, identifying both useful features and areas for improvement.
@@ -82,8 +73,6 @@ Through this analysis, we recognized valuable elements to include in our product
 
 By leveraging these insights, we are building an application that not only avoids the common pitfalls of existing tools but also enhances the user experience through features like undergraduate program comparisons, personalized recommendations, and notifications based on individual profiles. Benchmarking has therefore played a critical role in aligning our solution with both market standards and user-centered design principles, ensuring that Vocación360 delivers a clear, relevant, and empowering path toward informed academic decision-making.
 
-![Benchmarking](https://github.com/user-attachments/assets/4e59b7ac-8cdb-40a8-bcae-f5437dd645e2)
-
 ---
 
 ## 5. Structure
@@ -91,8 +80,6 @@ By leveraging these insights, we are building an application that not only avoid
 ### 5.1. Navigation Flow
 
 The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore undergraduate programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
-
-![Site Map](/files/structure/Site-Map.png)
 
 ---
 
@@ -116,59 +103,17 @@ The user chooses to try the product and begins interacting with it. During this 
 💬 Loyalty & Advocacy
 After completing their experience, the user forms a definitive opinion. This will influence whether they use the product again and whether they recommend it to others — potentially becoming a brand advocate.
 
-
-
-
-<p align="center">
-  <img src="/files/skeleton/CJM.png" alt="CJM">
-</p>
-
 #### 6.1.1 Awareness
 In the awareness stage, users are first discovering the platform and exploring its offerings. The home screen provides an entry point with visual categories and quick access to the main tools. The career search tool allows users to browse through available programs, creating initial engagement and interest.
 
-<p align="center">
-  <img src="/files/skeleton/home.png" alt="Home">
-</p>
-<p align="center">
-  <img src="/files/skeleton/buscador carrera.png" alt="buscador carrera">
-</p>
-
 #### 6.1.2 Consideration
 In the consideration stage, users begin comparing options. The interest test helps them reflect on their preferences, while the results offer personalized recommendations. Additionally, the list of careers supports users in exploring different paths based on filters and suggestions.
-<p align="center">
-  <img src="/files/skeleton/test intereses.png" alt="test intereses">
-</p>
-<p align="center">
-  <img src="/files/skeleton/resultado test.png" alt="resultado test">
-</p>
-<p align="center">
-  <img src="/files/skeleton/lista carreras.png" alt="lista carreras">
-</p>
 
 #### 6.1.3 Decision
 During the decision stage, users require detailed and comparative information to choose the best program. The program detail screen provides in-depth information about each program. The comparator and comparison table enable side-by-side evaluation. Information on scholarships and benefits supports practical decision-making.
-<p align="center">
-  <img src="/files/skeleton/informacion carrera.png" alt="informacion carrera">
-</p>
-<p align="center">
-  <img src="/files/skeleton/comparador.png" alt="comparador">
-</p>
-<p align="center">
-  <img src="/files/skeleton/tabla comparativa.png" alt="tabla comparativa">
-</p>
-<p align="center">
-  <img src="/files/skeleton/beneficios.png" alt="beneficios">
-</p>
 
 #### 6.1.4 Loyalty and Advocacy
 In the Loyalty and Advocacy phase, the results screen includes two key actions: downloading and sharing. These features encourage users to keep their personalized recommendations and to share their experience through social media or direct links. This supports user retention, increases platform visibility, and promotes engagement through peer influence.
-<p align="center">
-  <img src="/files/skeleton/compartir resultados.png" alt="compartir resultados">
-</p>
-
-
-
-
 
 
 
