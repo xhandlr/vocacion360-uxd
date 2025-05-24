@@ -35,7 +35,7 @@ Through careful application of UX design principles and student-centered researc
 
 Camille Elgueta - Project Manager
 
-Zihao Xiao - Analist
+Zihao Xiao - Analyst
 
 Gerson Urrea - Designer
 
@@ -47,11 +47,12 @@ Carlos Pradenas - Presenter
 
 ### 3.1. Value Proposition Canvas
 
-The first step taken by the team was to define the strategy through a "Value Proposition Canvas," used to align the user needs with the proposed solution. This process allowed us to clearly identify our target market—high school students facing challenges in choosing their future undergraduate program and develop a product tailored to their realities. 
+In a [survey](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing) conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for career guidance. Platforms like *MiFuturo* or Ministry of Education websites were not mentioned, revealing a lack of access to key information and a **strategic opportunity**.
 
-From the canvas, we observed key alignments such as the "fear of making the wrong choice" and the corresponding feature "comparison tools with objective data." This connection helped us understand how to support users through clarity and personalization. Other early ideas, like integrating external advising networks, were discussed but ultimately not prioritized in the current version. 
+We used the **Value Proposition Canvas** to align these needs with our proposed solution. In response to insecurity about their abilities and social pressure, we aim to **empower students** through tests that assess strengths, interests, and skills, along with objective data on salaries and employability to challenge myths passed on by their social circles.
 
-This strategic process helped ensure the solution is not only functional but directly addresses the students' pains, gains, and real decision-making contexts.
+Students' main fear is not just making the wrong choice, but **having no choice at all** due to low PAES scores. Therefore, the solution must go beyond functionality and directly address their real pains and needs. **Vocación360** is an all-in-one platform that provides free access to scholarship information, vocational tests, career data, and university comparison tools, including metrics like employability, average salary, and accreditation. It does not require registration, and results are downloaded locally so students can keep their personal journey.
+
 
 ![Value Canvas](https://github.com/user-attachments/assets/31b3a1dc-e298-4f0d-beb7-5ae7a16d7860)
 
@@ -114,8 +115,6 @@ The user chooses to try the product and begins interacting with it. During this 
 
 💬 Loyalty & Advocacy
 After completing their experience, the user forms a definitive opinion. This will influence whether they use the product again and whether they recommend it to others — potentially becoming a brand advocate.
-
-
 
 
 
@@ -193,12 +192,8 @@ Additionally, between the wireframes and the final prototype, we made adjustment
 
 In our competitive benchmarking, we prioritized a cool color palette—meant to convey calmness and reflection—because we believe career decisions should be approached thoughtfully and without external pressure. We also introduced value-added tools compared to our competitors: the ability to compare careers and download test results for free, without requiring registration.
 
-Finally, a survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
+Finally, the survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
 
-Attached below is the spreadsheet with the survey responses on vocational guidance:
-
-
-[Survey](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing)
 
 ### 7.2. High Definition Interfaces
 
