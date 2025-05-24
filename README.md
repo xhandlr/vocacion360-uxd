@@ -119,7 +119,20 @@ In the Loyalty and Advocacy phase, the results screen includes two key actions: 
 
 ### 6.2. Low-Fi Wireframes
 
-**TO-DO:** 
+The wireframes developed represent an approximation of the structure and design of the interfaces associated with the committed functionalities. The main navigation between screens is carried out through a top navigation bar, which is present across all system interfaces.
+
+In general terms, the interfaces can be grouped into three main thematic categories:
+
+🧭 Interfaces Related to Academic Programs
+These interfaces prioritize the use of tables to display structured and repetitive information, such as the characteristics and attributes of academic programs. Additionally, pie charts are used to present contextual information related to the composition of students enrolled in a program, as well as the academic weighting requirements needed to apply.
+
+📝 Interfaces Related to Tests
+These interfaces follow a minimalist and straightforward design, centered around Likert-scale questions that allow users to express degrees of agreement or disagreement. The test results are presented using pie charts that show the user's affinity with different areas of knowledge, along with a concise description and clear recommendations. The goal is to ensure that users can easily understand the results through precise and actionable information.
+
+🎓 Interfaces Related to Student Benefits
+The information is organized into three main sections. In each section, the benefits available to users are presented with a brief description and links to official platforms. A filter bar is included to allow students to explore the available benefits based on their interests. The main objective is for users to clearly identify what benefits they can access, their type, and where to go for more information.
+
+
 
 ---
 
@@ -142,6 +155,6 @@ Finally, the survey conducted at a public high school revealed that most student
 
 ### 7.2. High Definition Interfaces
 
-**TO-DO:**
+
 
 ---
