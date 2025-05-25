@@ -156,5 +156,13 @@ Finally, the survey conducted at a public high school revealed that most student
 ### 7.2. High Definition Interfaces
 
 
+High-fidelity interfaces clearly showcase the project's visual style, content structure, and navigation flow. Additionally, animations and transitions are incorporated where appropriate, delivering a more realistic and immersive user experience.
+
+Key highlights:
+
+- A cool color palette was chosen to convey a sense of calm, trust, and clarity throughout the user’s navigation.
+- Since certain elements are repeated across multiple screens, a set of reusable components was created to ensure visual consistency and simplify maintenance. These components include the filter bar, search bar, navigation bar, buttons, and more.
+- Component variants were designed to reflect different visual states, especially for interactive elements. For instance, buttons change color on hover, clearly indicating their interactivity and encouraging user engagement.
+
 
 ---
