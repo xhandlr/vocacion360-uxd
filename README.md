@@ -171,3 +171,33 @@ You can view all high-fidelity interfaces in the following PDF document:
 📄 [Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)
 
 ---
+
+## 8. Annex
+
+This section provides direct access to all detailed PDF documents organized by project phase and section. Each document contains comprehensive information and visual materials supporting the design process.
+
+### 3. Strategy Documents
+- 📄 **[Value Proposition Canvas - Vocación360](docs/value-prop-canvas-vocacion360.pdf)**  
+ Detailed analysis of user pains, gains, and our value proposition alignment
+- 📄 **[UX Personas - Vocación360](docs/ux-personas-vocacion360.pdf)**  
+ Complete user personas with detailed profiles, needs, and behaviors
+- 📄 **[Benchmarking Analysis - Vocación360](docs/benchmarking-vocacion360.pdf)**  
+ Comprehensive competitive analysis and market positioning
+
+### 4. Scope Documents
+- 📄 **[Customer Journey Map - Vocación360](docs/customer-journey-map-vocacion360.pdf)**  
+ Detailed user journey mapping across all touchpoints and interactions
+
+### 5. Structure Documents
+- 📄 **[Sitemap - Vocación360](docs/sitemap-vocacion360.pdf)**  
+ Complete information architecture and navigation structure
+
+### 6. Skeleton Documents
+- 📄 **[Low-Fi Wireframes - Vocación360](docs/wireframes-vocacion360.pdf)**  
+ Complete set of low-fidelity wireframes for all main interfaces
+
+### 7. Surface Documents
+- 📄 **[Hi-Fi Interfaces - Vocación360](docs/hi-fi-interfaces-vocacion360.pdf)**  
+ Final high-fidelity interface designs with visual style and interactions
+
+---
