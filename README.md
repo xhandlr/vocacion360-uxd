@@ -7,14 +7,14 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 - [2. Team & Roles](#2-team--roles)
 - [3. Strategy](#3-strategy)
   - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
+  - [3.2. UX Personas](#32-ux-personas)
+  - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
-  - [4.1. UX Personas](#41-ux-personas)
-  - [4.2. Benchmarking](#42-benchmarking)
+  - [4.1 Customer Journey Map](#41-customer-journey-map)
 - [5. Structure](#5-structure)
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
-  - [6.1. Customer Journey Map](#61-customer-journey-map)
-  - [6.2. Low-Fi Wireframes](#62-low-fi-wireframes)
+  - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#7-surface)
   - [7.1. Interface Evolution](#71-interface-evolution)
   - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
@@ -53,11 +53,9 @@ We used the **Value Proposition Canvas** to align these needs with our proposed 
 
 Students' main fear is not just making the wrong choice, but **having no choice at all** due to low PAES scores. Therefore, the solution must go beyond functionality and directly address their real pains and needs. **Vocación360** is an all-in-one platform that provides free access to scholarship information, vocational tests, career data, and university comparison tools, including metrics like employability, average salary, and accreditation. It does not require registration, and results are downloaded locally so students can keep their personal journey.
 
----
+![Value Proposition Canvas](./assets/value-prop-canvas.png)
 
-## 4. Scope
-
-### 4.1. UX Personas
+### 3.2. UX Personas
 
 The application is designed for high school students who are exploring their future undergraduate programs and need support in making informed decisions. It is suitable for students with clear interests as well as those who are still uncertain. It provides step-by-step guidance through vocational tests, undergraduate program exploration tools, and scholarship information. 
 
@@ -65,7 +63,15 @@ It allows users to reflect on their strengths, compare study options, and access
 
 Below are our three user personas, representing different types of students with diverse needs and circumstances:
 
-### 4.2. Benchmarking
+![UX Persona 1](./assets/ux-persona-1.png)
+
+![UX Persona 2](./assets/ux-persona-2.png)
+
+![UX Persona 3](./assets/ux-persona-3.png)
+
+
+### 3.3. Benchmarking 
+
 
 In order to develop an application that truly responds to the needs and expectations of high school students seeking vocational guidance, it was essential to conduct a thorough benchmarking analysis of existing platforms in the educational field. This process allowed us to evaluate the strengths and weaknesses of competing applications, such as Mifuturo, EligeCarrera, CarrerasUniversitarias, and BeneficiosEstudiantiles, identifying both useful features and areas for improvement.
 
@@ -73,19 +79,14 @@ Through this analysis, we recognized valuable elements to include in our product
 
 By leveraging these insights, we are building an application that not only avoids the common pitfalls of existing tools but also enhances the user experience through features like undergraduate program comparisons, personalized recommendations, and notifications based on individual profiles. Benchmarking has therefore played a critical role in aligning our solution with both market standards and user-centered design principles, ensuring that Vocación360 delivers a clear, relevant, and empowering path toward informed academic decision-making.
 
----
-
-## 5. Structure
-
-### 5.1. Navigation Flow
-
-The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore undergraduate programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
+![Benchmarking](./assets/benchmarking.png)
 
 ---
 
-## 6. Skeleton
+## 4. Scope
 
-### 6.1. Customer Journey Map
+### 4.1. Customer Journey Map
+
 
 The Customer Journey Map outlines the stages and interactions a user has with our product — from the moment they discover it to when they form their final opinion based on their experience.
 
@@ -103,21 +104,23 @@ The user chooses to try the product and begins interacting with it. During this 
 💬 Loyalty & Advocacy
 After completing their experience, the user forms a definitive opinion. This will influence whether they use the product again and whether they recommend it to others — potentially becoming a brand advocate.
 
-#### 6.1.1 Awareness
-In the awareness stage, users are first discovering the platform and exploring its offerings. The home screen provides an entry point with visual categories and quick access to the main tools. The career search tool allows users to browse through available programs, creating initial engagement and interest.
+![Customer Journey Map](./assets/customer-journey-map.png)
 
-#### 6.1.2 Consideration
-In the consideration stage, users begin comparing options. The interest test helps them reflect on their preferences, while the results offer personalized recommendations. Additionally, the list of careers supports users in exploring different paths based on filters and suggestions.
+---
 
-#### 6.1.3 Decision
-During the decision stage, users require detailed and comparative information to choose the best program. The program detail screen provides in-depth information about each program. The comparator and comparison table enable side-by-side evaluation. Information on scholarships and benefits supports practical decision-making.
+## 5. Structure
 
-#### 6.1.4 Loyalty and Advocacy
-In the Loyalty and Advocacy phase, the results screen includes two key actions: downloading and sharing. These features encourage users to keep their personalized recommendations and to share their experience through social media or direct links. This supports user retention, increases platform visibility, and promotes engagement through peer influence.
+### 5.1. Navigation Flow
 
+The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore undergraduate programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
 
+![Sitemap](./assets/sitemap.png)
 
-### 6.2. Low-Fi Wireframes
+---
+
+## 6. Skeleton
+
+### 6.1. Low-Fi Wireframes
 
 The wireframes developed represent an approximation of the structure and design of the interfaces associated with the committed functionalities. The main navigation between screens is carried out through a top navigation bar, which is present across all system interfaces.
 
@@ -132,7 +135,8 @@ These interfaces follow a minimalist and straightforward design, centered around
 🎓 Interfaces Related to Student Benefits
 The information is organized into three main sections. In each section, the benefits available to users are presented with a brief description and links to official platforms. A filter bar is included to allow students to explore the available benefits based on their interests. The main objective is for users to clearly identify what benefits they can access, their type, and where to go for more information.
 
-
+You can view all low-fidelity wireframes in the following PDF document:  
+📄 [Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)
 
 ---
 
@@ -155,14 +159,15 @@ Finally, the survey conducted at a public high school revealed that most student
 
 ### 7.2. High Definition Interfaces
 
-
 High-fidelity interfaces clearly showcase the project's visual style, content structure, and navigation flow. Additionally, animations and transitions are incorporated where appropriate, delivering a more realistic and immersive user experience.
 
-Key highlights:
+**Key highlights:**
 
-- A cool color palette was chosen to convey a sense of calm, trust, and clarity throughout the user’s navigation.
-- Since certain elements are repeated across multiple screens, a set of reusable components was created to ensure visual consistency and simplify maintenance. These components include the filter bar, search bar, navigation bar, buttons, and more.
-- Component variants were designed to reflect different visual states, especially for interactive elements. For instance, buttons change color on hover, clearly indicating their interactivity and encouraging user engagement.
+- A **cool color palette** was chosen to convey a sense of calm, trust, and clarity throughout the user’s navigation.
+- Since certain elements are repeated across multiple screens, a set of **reusable components** was created to ensure visual consistency and simplify maintenance. These components include the filter bar, search bar, navigation bar, buttons, and more.
+- **Component variants** were designed to reflect different **visual states**, especially for interactive elements. For instance, buttons change color on hover, clearly indicating their interactivity and encouraging user engagement.
 
+You can view all high-fidelity interfaces in the following PDF document:  
+📄 [Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)
 
 ---
