@@ -11,7 +11,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
   - [4.1 Customer Journey Map](#41-customer-journey-map)
-    - [4.1.1 Interfaces Associated](#411-interfaces-associated)
+    - [4.1.1 Decision Stage Interfaces](#411-decision-stage-interfaces)
 - [5. Structure](#5-structure)
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
@@ -26,7 +26,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 
 High school students in Chile face significant challenges when choosing their academic and professional paths. Existing vocational guidance platforms offer fragmented information across multiple websites, with overwhelming interfaces and technical language that creates unnecessary barriers.
 
-Vocación360 addresses these issues by providing a comprehensive, user-friendly application designed specifically for students making career decisions. Our platform centralizes three essential tools: personalized vocational tests, clear career information with comparison capabilities, and organized scholarship resources—all within an intuitive interface that simplifies the decision-making process.
+Vocación360 addresses these issues by providing a comprehensive, user-friendly application designed specifically for students making degree programs decisions. Our platform centralizes three essential tools: personalized vocational tests, clear degree programs information with comparison capabilities, and organized scholarship resources—all within an intuitive interface that simplifies the decision-making process.
 
 Through careful application of UX design principles and student-centered research, we've created a solution that transforms what is typically an anxiety-producing experience into a manageable journey of self-discovery and informed choice.
 
@@ -48,11 +48,13 @@ Carlos Pradenas - Presenter
 
 ### 3.1. Value Proposition Canvas
 
-In a [survey](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing) conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for career guidance. Platforms like *MiFuturo* or Ministry of Education websites were not mentioned, revealing a lack of access to key information and a **strategic opportunity**.
+In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for academic program guidance. Platforms like *MiFuturo* or Ministry of Education websites were not mentioned, revealing a lack of access to key information and a **strategic opportunity**.
 
 We used the **Value Proposition Canvas** to align these needs with our proposed solution. In response to insecurity about their abilities and social pressure, we aim to **empower students** through tests that assess strengths, interests, and skills, along with objective data on salaries and employability to challenge myths passed on by their social circles.
 
-Students' main fear is not just making the wrong choice, but **having no choice at all** due to low PAES scores. Therefore, the solution must go beyond functionality and directly address their real pains and needs. **Vocación360** is an all-in-one platform that provides free access to scholarship information, vocational tests, career data, and university comparison tools, including metrics like employability, average salary, and accreditation. It does not require registration, and results are downloaded locally so students can keep their personal journey.
+Students' main fear is not just making the wrong choice, but **having no choice at all** due to low PAES scores. Therefore, the solution must go beyond functionality and directly address their real pains and needs. **Vocación360** is an all-in-one platform that provides free access to scholarship information, vocational tests, academic program data, and university comparison tools, including metrics like employability, average salary, and accreditation. It does not require registration, and results are downloaded locally so students can keep their personal journey.
+
+📊 You can view the full survey responses [here](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing).
 
 ![Value Proposition Canvas](./assets/value-prop-canvas.png)
 
@@ -107,20 +109,20 @@ After completing their experience, the user forms a definitive opinion. This wil
 
 ![Customer Journey Map](./assets/customer-journey-map.png)
 
-#### 4.1.1. Interfaces associated with the decision stage
+#### 4.1.1. Decision Stage Interfaces
 
 **Customer Activities**
-The user begins to interact with the features offered by Vocación360, such as comparing academic programs, exploring scholarships and benefits, and taking diagnostic tests. A key interface at this stage is the career comparison screen, which allows users to generate a downloadable comparative table between two academic programs and their respective universities.
+The user explores key features of Vocación360 — comparing degree programs, discovering scholarships and benefits, and taking diagnostic tests. A key interface here is the academic program comparison screen, which lets users generate a downloadable table comparing two programs and their universities.
 
-![Compare Academic Programs](./assets/hd-compare-academic-programs.png)
+![Compare degree programs](./assets/hd-compare-academic-programs.png)
 
 **Customer Goals**
-The user’s main goal is to find the academic path that best fits their interests and abilities. To support this, Vocación360 provides interest, strengths, and skills tests. These identify the user’s strongest areas and provide a list of recommended programs at the end of each test. The results can be downloaded locally.
+The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers interest, strengths, and skills tests. These identify the user’s strongest areas and provide a list of recommended programs at the end of each test. The results can be downloaded locally.
 
 ![Test Result](./assets/hd-test-result.png)
 
 **Touchpoints**
-The main point of contact with high school students is through the website interface. At this stage, the home screen plays a key role, featuring a background with cool tones designed to inspire reflection and convey a sense of calm for students who may feel lost, anxious, or overwhelmed by the need to explore their true vocation and make decisions about their future.
+The website interface is the primary point of contact with high school students. The home screen plays a key role, with a background in cool tones designed to inspire reflection and convey calm for students who may feel lost, anxious, or overwhelmed by the need to explore their true vocation and make decisions about their future.
 
 ![Home](./assets/hd-home.png)
 
@@ -130,7 +132,7 @@ The main point of contact with high school students is through the website inter
 
 ### 5.1. Navigation Flow
 
-The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore undergraduate programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account, which enhances accessibility and reduces barriers for students.
+The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore Undergraduate Programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account — which enhances accessibility and reduces barriers for students.
 
 ![Sitemap](./assets/sitemap.png)
 
@@ -138,14 +140,14 @@ The Vocación360 sitemap presents a simplified, user-focused structure designed 
 
 ## 6. Skeleton
 
-### 6.1. Low-Fi Wireframes
+### 6.1. Low-fidelity wireframes
 
 The wireframes developed represent an approximation of the structure and design of the interfaces associated with the committed functionalities. The main navigation between screens is carried out through a top navigation bar, which is present across all system interfaces.
 
 In general terms, the interfaces can be grouped into three main thematic categories:
 
-🧭 Interfaces Related to Academic Programs
-These interfaces prioritize the use of tables to display structured and repetitive information, such as the characteristics and attributes of academic programs. Additionally, pie charts are used to present contextual information related to the composition of students enrolled in a program, as well as the academic weighting requirements needed to apply.
+🧭 Interfaces Related to degree programs
+These interfaces prioritize the use of tables to display structured and repetitive information, such as the characteristics and attributes of degree programs. Additionally, pie charts are used to present contextual information related to the composition of students enrolled in a program, as well as the academic weighting requirements needed to apply.
 
 📝 Interfaces Related to Tests
 These interfaces follow a minimalist and straightforward design, centered around Likert-scale questions that allow users to express degrees of agreement or disagreement. The test results are presented using pie charts that show the user's affinity with different areas of knowledge, along with a concise description and clear recommendations. The goal is to ensure that users can easily understand the results through precise and actionable information.
@@ -164,32 +166,33 @@ You can view all low-fidelity wireframes in the following PDF document:
 
 ## Interface Evolution Process: Explanations and Key Reasons for Modifications
 
-In the initial versions of the interface, we included a top navigation bar with the following options: Home, Undergraduate Programs, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project's scope, we decided to remove "Points of Interest" and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that can be easily replaced by allowing local downloads of results. Nonetheless, we do not rule out including this feature in future versions.
+In the initial versions of the interface, we included a top navigation bar with the following options: Home, Undergraduate Programs, Benefits, Points of Interest, About Us, and Login/Register. However, as we refined the project's scope, we decided to remove "Points of Interest" and temporarily disregard the Login/Register functionality. This was because user login would only provide access to test history—something that we replaced by allowing users to download their results for free, without requiring registration. Nonetheless, we do not rule out including this feature in future versions.
 
-Our second consideration was the target audience: high school students seeking vocational guidance. These young users are often confused or overwhelmed, and requesting them to create an account or enter personal information at the outset might discourage them from engaging further. To avoid early abandonment of the platform, we chose to simplify access as much as possible.
+Our second consideration was the target audience: high school students seeking vocational guidance. These young users are often confused or overwhelmed, and requesting them to create an account or enter personal information at the outset might discourage them from engaging further, so we chose to simplify access as much as possible.
 
 Additionally, between the wireframes and the final prototype, we made adjustments to margins and spacing to better align with web design standards seen in similar informational websites. These changes improve readability and the overall browsing experience.
 
-In our competitive benchmarking, we prioritized a cool color palette—meant to convey calmness and reflection—because we believe career decisions should be approached thoughtfully and without external pressure. We also introduced value-added tools compared to our competitors: the ability to compare careers and download test results for free, without requiring registration.
+In our competitive benchmarking, we prioritized a cool color palette aligned with thoughtful decision-making. We also introduced value-added tools compared to our competitors: the ability to compare degree programs and download test results for free.
 
 Finally, the survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
 
-**Home**
+**Home Interface Evolution**
 
-The home wireframe included options to take tests, explore academic programs, and search for scholarships. However, in the HD interfaces, a more minimalist style was prioritized, reducing the number of visible buttons. A forest background with blue and turquoise tones was added to convey depth and calmness. Additionally, the navigation bar was made collapsible, with a subtle orange indicator to show where the mouse is hovering.
+The original home wireframe offered options for taking tests, exploring programs, and searching scholarships. In the high-definition version, a minimalist design was adopted with fewer visible buttons and a calming forest background in blue and turquoise tones. The navigation bar became collapsible, featuring a subtle orange hover effect.
 
 ![Home Interface Evolution](./assets/home-interface-evolution.png)
 
 
-**Academic Program Information**
+**Academic Program Interface Evolution**
 
-The detailed view of academic programs was redesigned. In the original wireframes, side menus were used, but in the HD version, they were replaced by top navigation buttons to improve consistency—since the HD interfaces for student benefits also use top buttons. In the final prototype, these buttons are fully interactive, as the panel was designed as a component with variants.
+The academic program view originally used side menus, but was redesigned with top navigation buttons for greater consistency across sections. In the specific section on weightings, a donut chart was added to visually display the percentage value of each PAES component.
 
 ![Weightings Interface Evolution](./assets/weightings-interface-evolution.png)
 
-**Interest Test**
+**Interest Test Interface Evolution**
 
-In the initial wireframes, the test questions included a title with the question number, multiple-choice answers, and a central text indicating the total number of questions. In the final interfaces, this was replaced with a progress bar that goes from 0% to 100%. Additionally, the questions are answered using a Likert scale, which is more suitable for measuring levels of interest.
+Initially, test questions showed their number and multiple-choice options, along with the total count in the center. In the updated version, a progress bar was added and a Likert scale was used, providing a clearer and more intuitive way to measure user interest.
+
 
 ![Interest Test Interface Evolution](./assets/interest-test-interface-evolution.png)
 
