@@ -11,6 +11,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
   - [3.3. Benchmarking](#33-benchmarking)
 - [4. Scope](#4-scope)
   - [4.1 Customer Journey Map](#41-customer-journey-map)
+    - [4.1.1 Interfaces Associated](#411-interfaces-associated)
 - [5. Structure](#5-structure)
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
@@ -106,6 +107,23 @@ After completing their experience, the user forms a definitive opinion. This wil
 
 ![Customer Journey Map](./assets/customer-journey-map.png)
 
+#### 4.1.1. Interfaces associated with the decision stage
+
+**Customer Activities**
+The user begins to interact with the features offered by Vocación360, such as comparing academic programs, exploring scholarships and benefits, and taking diagnostic tests. A key interface at this stage is the career comparison screen, which allows users to generate a downloadable comparative table between two academic programs and their respective universities.
+
+![Compare Academic Programs](./assets/hd-compare-academic-programs.png)
+
+**Customer Goals**
+The user’s main goal is to find the academic path that best fits their interests and abilities. To support this, Vocación360 provides interest, strengths, and skills tests. These identify the user’s strongest areas and provide a list of recommended programs at the end of each test. The results can be downloaded locally.
+
+![Test Result](./assets/hd-test-result.png)
+
+**Touchpoints**
+The main point of contact with high school students is through the website interface. At this stage, the home screen plays a key role, featuring a background with cool tones designed to inspire reflection and convey a sense of calm for students who may feel lost, anxious, or overwhelmed by the need to explore their true vocation and make decisions about their future.
+
+![Home](./assets/hd-home.png)
+
 ---
 
 ## 5. Structure
@@ -156,6 +174,24 @@ In our competitive benchmarking, we prioritized a cool color palette—meant to 
 
 Finally, the survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
 
+**Home**
+
+The home wireframe included options to take tests, explore academic programs, and search for scholarships. However, in the HD interfaces, a more minimalist style was prioritized, reducing the number of visible buttons. A forest background with blue and turquoise tones was added to convey depth and calmness. Additionally, the navigation bar was made collapsible, with a subtle orange indicator to show where the mouse is hovering.
+
+![Home Interface Evolution](./assets/home-interface-evolution.png)
+
+
+**Academic Program Information**
+
+The detailed view of academic programs was redesigned. In the original wireframes, side menus were used, but in the HD version, they were replaced by top navigation buttons to improve consistency—since the HD interfaces for student benefits also use top buttons. In the final prototype, these buttons are fully interactive, as the panel was designed as a component with variants.
+
+![Weightings Interface Evolution](./assets/weightings-interface-evolution.png)
+
+**Interest Test**
+
+In the initial wireframes, the test questions included a title with the question number, multiple-choice answers, and a central text indicating the total number of questions. In the final interfaces, this was replaced with a progress bar that goes from 0% to 100%. Additionally, the questions are answered using a Likert scale, which is more suitable for measuring levels of interest.
+
+![Interest Test Interface Evolution](./assets/interest-test-interface-evolution.png)
 
 ### 7.2. High Definition Interfaces
 
