@@ -155,9 +155,11 @@ These interfaces follow a minimalist and straightforward design, centered around
 🎓 Interfaces Related to Student Benefits
 The information is organized into three main sections. In each section, the benefits available to users are presented with a brief description and links to official platforms. A filter bar is included to allow students to explore the available benefits based on their interests. The main objective is for users to clearly identify what benefits they can access, their type, and where to go for more information.
 
-You can view all low-fidelity wireframes in the following PDF document:  
-📄 [Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)
+- 📁 **[Wireframes Workspace – Vocación360 (Figma)](https://www.figma.com/design/xzcIdIPWxBuT59i8s7O3t0/Wireframes-Vocación360?t=7C1t74Ojj2hCTtnC-1)**  
+  Complete set of low-fidelity wireframes in the shared Figma workspace
 
+- 📄 **[Low-Fi Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)**  
+  Complete set of low-fidelity wireframes for all main interfaces
 ---
 
 ## 7. Surface
@@ -206,8 +208,11 @@ High-fidelity interfaces clearly showcase the project's visual style, content st
 - Since certain elements are repeated across multiple screens, a set of **reusable components** was created to ensure visual consistency and simplify maintenance. These components include the filter bar, search bar, navigation bar, buttons, and more.
 - **Component variants** were designed to reflect different **visual states**, especially for interactive elements. For instance, buttons change color on hover, clearly indicating their interactivity and encouraging user engagement.
 
-You can view all high-fidelity interfaces in the following PDF document:  
-📄 [Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)
+- 📁 **[Hi-Fi Interfaces Workspace – Vocación360 (Figma)](https://www.figma.com/design/Gxz3vWaPSxh9GKhD5ABmFu/Interfaces-Vocaci%C3%B3n360?t=7C1t74Ojj2hCTtnC-1)**  
+  Final high-fidelity interface designs available in the shared Figma workspace
+
+- 📄 **[Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)**  
+  Final high-fidelity interface designs with visual style and interactions
 
 ---
 
