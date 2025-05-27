@@ -112,16 +112,19 @@ After completing their experience, the user forms a definitive opinion. This wil
 #### 4.1.1. Decision Stage Interfaces
 
 **Customer Activities**
+
 The user explores key features of Vocación360 — comparing degree programs, discovering scholarships and benefits, and taking diagnostic tests. A key interface here is the academic program comparison screen, which lets users generate a downloadable table comparing two programs and their universities.
 
 ![Compare degree programs](./assets/hd-compare-academic-programs.png)
 
 **Customer Goals**
+
 The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers interest, strengths, and skills tests. These identify the user’s strongest areas and provide a list of recommended programs at the end of each test. The results can be downloaded locally.
 
 ![Test Result](./assets/hd-test-result.png)
 
 **Touchpoints**
+
 The website interface is the primary point of contact with high school students. The home screen plays a key role, with a background in cool tones designed to inspire reflection and convey calm for students who may feel lost, anxious, or overwhelmed by the need to explore their true vocation and make decisions about their future.
 
 ![Home](./assets/hd-home.png)
