@@ -4,6 +4,8 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 ## Index
 
 - [1. Introduction](#1-introduction)
+  - [1.1. The Problem](#11-the-problem)
+  - [1.2. Our Solution](#12-our-solution)
 - [2. Team & Roles](#2-team--roles)
 - [3. Strategy](#3-strategy)
   - [3.1. Value Proposition Canvas](#31-value-proposition-canvas)
@@ -24,19 +26,50 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 
 ## 1. Introduction
 
-> *What if I’m just wasting my time?*
+### 1.1. **The Problem**
 
-> *What if I disappoint my family with my decision?*
+> What if I’m just wasting my time?  
+> What if I disappoint my family with my decision?  
+> Will I earn enough to make a living?
 
-> *Will I earn enough to make a living?*
+High school students in Chile face significant challenges when choosing their academic and professional paths. Existing vocational guidance platforms offer fragmented information across multiple websites, with overwhelming interfaces and technical language that create unnecessary barriers.
 
-In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for academic program guidance. Platforms like *MiFuturo* or Ministry of Education websites were not mentioned, revealing a lack of access to key information and a **strategic opportunity**.
+In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for academic program guidance. Platforms like *MiFuturo* or the Ministry of Education’s websites were not mentioned, revealing a lack of access to key information—and a strategic opportunity.
 
-High school students in Chile face significant challenges when choosing their academic and professional paths. Existing vocational guidance platforms offer fragmented information across multiple websites, with overwhelming interfaces and technical language that creates unnecessary barriers.
+📊 You can view the full survey responses [here](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing).
 
-Vocación360 offers a comprehensive and intuitive solution to support students in choosing their university degree program. Our platform brings together three key tools: vocational orientation tests, random exploration of degree programs, and access to clear, comparative, and up-to-date information on undergraduate degree programs.
+---
 
-Through careful application of UX design principles and student-centered research, we've created a solution that transforms what is typically an anxiety-producing experience into a manageable journey of self-discovery and informed choice.
+### 1.2. **Our Solution**
+
+**Vocación360** addresses a complex issue across three dimensions: social, emotional, and technical—facing challenges due to the lack of reliable and accessible platforms.
+
+##### 🟣 **Striking Aesthetic with a Strong Visual Identity**
+
+- Color palette: **purples, oranges, and yellows**  
+- A modern, immersive design that conveys **depth, energy, and modernity**
+
+##### 🧭 **Adapted Vocational Guidance Test**
+
+- **Two distinct paths:**  
+  1. For students who feel **completely lost**  
+  2. For those deciding between **two options**
+
+- Realistic recommendations:  
+  > We won’t suggest Civil Engineering if you hate math!
+
+###### 🎲 **Gamified Degree Exploration**
+
+- **Interactive die** that presents random degree programs  
+- *Discover what you didn’t know you liked!*  
+> [!NOTE]  
+> It’s not about choosing at random, but broadening your perspective
+
+##### 🔍 **Degree Explorer and Comparator**
+
+- Filters by: **location, tuition cost, or average salary**  
+- Visual cards with the most relevant information
+
 
 ---
 
@@ -56,29 +89,39 @@ Carlos Pradenas - Presenter
 
 ### 3.1. Value Proposition Canvas
 
-We used the Value Proposition Canvas to align our solution with the diverse needs of high school students, from those who have clear options to those who feel completely lost or uncertain about what to study.
+*How we aligned student needs with our solution*
 
-Vocación360 addresses a complex problem across three dimensions: social, emotional, and technical, facing challenges due to the lack of reliable and accessible platforms.
+**Dual approach:**
 
-Our approach is reflected in:
+1. **Students with clear options:** Exploration and comparison tools with up-to-date information.
+2. **Lost or undecided students:** Vocational guidance test to narrow down options, plus a random degree explorer.
 
-- Attractive and functional design with a modern, vibrant visual identity.
-- Vocational test with two tailored paths: for students unsure of what to choose and for those deciding between a few options, offering realistic recommendations.
-- Gamified exploration for those who prefer discovering options without pressure.
-- Visual explorer and comparator with filters to facilitate informed decisions.
+**Identified gaps:**
 
-📊 You can view the full survey responses [here](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing).
-
+- **Social:** External pressure on decision-making.
+- **Emotional:** Insecurity, fear of failure, or disappointing the family.
+- **Technical:** Lack of attractive and integrated guidance platforms.
 
 ![Value Proposition Canvas](./assets/value-prop-canvas.png)
 
-### 3.2. UX Personas
+### 3.2. **UX Personas**  
 
-The application is designed for high school students who are exploring their future undergraduate programs and need support in making informed decisions. It is suitable for students with clear interests as well as those who are still uncertain. It provides step-by-step guidance through vocational tests, undergraduate program exploration tools, and scholarship information. 
+*Defined through interviews and surveys with high school students, these personas reflect the diverse realities and needs behind Vocación360.*  
 
-It allows users to reflect on their strengths, compare study options, and access relevant, real-world data. It also considers different user contexts and motivations, ensuring the experience feels personal and supportive. In short, it is a versatile application that helps students navigate their academic choices with clarity and confidence.
+---
 
-Below are our three user personas, representing different types of students with diverse needs and circumstances:
+👥🔹 **Catalina González**  
+*"I want to compare degree programs that balance my passions with real-world employability."*  
+
+👥🔹 **Sofía Araya**  
+*"I love art, but my family says it’s not a ‘serious degree program’."*  
+
+👥🔹 **Jorge Muñoz**  
+*"I need a degree program that lets me support my family quickly."*  
+
+---
+
+> *These personas guided key design decisions, such as removing technical jargon, adding a degree comparator, and prioritizing access without registration.*  
 
 ![UX Persona 1](./assets/ux-persona-1.png)
 
@@ -89,12 +132,16 @@ Below are our three user personas, representing different types of students with
 
 ### 3.3. Benchmarking 
 
+To develop an application that truly meets the needs and expectations of high school students seeking vocational guidance, it was essential to analyze existing platforms — including both direct competitors and indirect references known for good design and usability.
 
-In order to develop an application that truly responds to the needs and expectations of high school students seeking vocational guidance, it was essential to conduct a thorough benchmarking analysis of existing platforms in the educational field. This process allowed us to evaluate the strengths and weaknesses of competing applications, such as Mifuturo, EligeCarrera, CarrerasUniversitarias, and BeneficiosEstudiantiles, identifying both useful features and areas for improvement.
+The goal was to identify the strengths and weaknesses of current solutions, both functionally and visually, in order to incorporate best practices and avoid common pitfalls.
 
-Through this analysis, we recognized valuable elements to include in our product—such as scholarship search tools, personalized filters based on user profiles, and centralized access to undergraduate program and scholarship information. At the same time, we identified key pain points in existing platforms, such as unclear test results, excessive visual noise, and non-functional buttons, which we aim to eliminate from our own design.
+#### Types of platforms analyzed:
 
-By leveraging these insights, we are building an application that not only avoids the common pitfalls of existing tools but also enhances the user experience through features like undergraduate program comparisons, personalized recommendations, and notifications based on individual profiles. Benchmarking has therefore played a critical role in aligning our solution with both market standards and user-centered design principles, ensuring that Vocación360 delivers a clear, relevant, and empowering path toward informed academic decision-making.
+- 🎓 **Direct competitors**: Platforms such as *MiFuturo* or *EligeCarrera*, which provide educational program information.
+- ⚖️ **Visual comparison tools**: Services like *QuePlan* or *ComparaOnline*, valued for their clarity and organization.
+- 🖼️ **Aesthetic references**: Apps like *Airbnb*, known for their modern and minimalistic user experience.
+
 
 ![Benchmarking](./assets/benchmarking.png)
 
@@ -104,22 +151,15 @@ By leveraging these insights, we are building an application that not only avoid
 
 ### 4.1. Customer Journey Map
 
+We identified four key stages in the user's interaction with Vocación360:
 
-The Customer Journey Map outlines the stages and interactions a user has with our product — from the moment they discover it to when they form their final opinion based on their experience.
+- 🔍 Awareness  
+- 🤔 Consideration  
+- ✅ Decision  
+- 💬 Loyalty & Advocacy  
 
-Below are the key stages we identified:
+These stages reflect the complete journey — from first contact to long-term perception and potential recommendation.
 
-🔍 Awareness
-The user discovers the product, either through a recommendation, social media advertisement, or related searches. This is the first point of contact with the brand.
-
-🤔 Consideration
-After discovering it, the user evaluates whether to use the product, comparing it with similar services. At this stage, they may still be influenced by additional information, reviews, or recommendations.
-
-✅ Decision
-The user chooses to try the product and begins interacting with it. During this phase, they form impressions based on real usage, which will shape their final opinion.
-
-💬 Loyalty & Advocacy
-After completing their experience, the user forms a definitive opinion. This will influence whether they use the product again and whether they recommend it to others — potentially becoming a brand advocate.
 
 ![Customer Journey Map](./assets/customer-journey-map.png)
 
@@ -149,7 +189,14 @@ The website interface is the primary point of contact with high school students.
 
 ### 5.1. Navigation Flow
 
-The Vocación360 sitemap presents a simplified, user-focused structure designed to support high school seniors in making informed academic decisions. Key sections include Vocational Tests (interests, skills, strengths, and results), Explore Undergraduate Programs (with filters by study area, interests, and skills, as well as undergraduate program comparison tools and detailed views), and Scholarships and Benefits (scholarship search and important dates). Additional areas include Help & FAQ and About Us. A key improvement was removing login and registration, enabling full access without creating an account — which enhances accessibility and reduces barriers for students.
+The Vocación360 site map outlines a user-centered and streamlined structure designed to reduce friction and improve accessibility. Its key sections include:
+
+- **Branched vocational guidance test**
+- **Gamified random exploration of degree programs**
+- **Degree program explorer with search functionality**
+- **Visual degree program comparator**
+
+> To maximize ease of access, the platform does **not require login or registration**, allowing students to explore all features freely without creating an account.
 
 ![Sitemap](./assets/sitemap.png)
 
