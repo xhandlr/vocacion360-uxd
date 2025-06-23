@@ -25,7 +25,9 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 ## 1. Introduction
 
 > *What if I’m just wasting my time?*
+
 > *What if I disappoint my family with my decision?*
+
 > *Will I earn enough to make a living?*
 
 In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated that external opinions directly influence their vocational decisions, and **75%** said they are not aware of any online tools for academic program guidance. Platforms like *MiFuturo* or Ministry of Education websites were not mentioned, revealing a lack of access to key information and a **strategic opportunity**.
@@ -54,22 +56,16 @@ Carlos Pradenas - Presenter
 
 ### 3.1. Value Proposition Canvas
 
-We used the Value Proposition Canvas to align these needs with our solution. While our target audience is high school students, they represent very diverse realities: from those who already have some academic options in mind to those who feel completely lost about their future. There are also students who distrust vocational tests, lacking the motivation or patience to complete them.
+We used the Value Proposition Canvas to align our solution with the diverse needs of high school students, from those who have clear options to those who feel completely lost or uncertain about what to study.
 
-**Vocación360** aims to tackle a complex issue from multiple dimensions: social, emotional, and technical. While there’s a clear market opportunity, there are also major challenges, given the absence of standout websites in this field. In response, our proposal is shaped around features carefully designed to foster trust and connection:
+Vocación360 addresses a complex problem across three dimensions: social, emotional, and technical, facing challenges due to the lack of reliable and accessible platforms.
 
-------
+Our approach is reflected in:
 
-- **Striking aesthetic with a defined visual identity:**
-   An appealing and functional design can be the difference between engaging and retaining a user—or losing them forever. Vocación360 embraces a modern, immersive aesthetic with a color palette of purples, oranges, and yellows, evoking depth, energy, and modernity.
-- **Vocational guidance test adapted to different situations:**
-   Designed for students who are unsure about their future, the test offers two distinct paths: one for those who feel completely lost, and another for those choosing between two options. The questions aim to provide realistic recommendations, considering both the subjects you’re good at and those you don’t enjoy. For example, *we won’t recommend civil engineering if you hate math!*
-- **Gamified degree program exploration:**
-   **Don’t like tests? Find them too long or unreliable but still want to explore new options? No problem!** Vocación360 includes a random exploration feature: by clicking on a die, you’ll see cards with different degree programs visually represented. You decide the pace and the direction.
-   *Note: We’re not encouraging you to choose your future at random—but we do want to help you broaden your perspective and explore options you might have never considered.*
-- **Personalized degree program explorer and comparator:**
-   While several sites provide information about degree programs, Vocación360 stands out for its visual clarity and intuitive structure. It allows you to filter options by location, tuition cost, or average salary, using cards that summarize the most relevant information. It also includes a comparator that lets you analyze two or more degree programs side by side, visually highlighting the key differences.
-
+- Attractive and functional design with a modern, vibrant visual identity.
+- Vocational test with two tailored paths: for students unsure of what to choose and for those deciding between a few options, offering realistic recommendations.
+- Gamified exploration for those who prefer discovering options without pressure.
+- Visual explorer and comparator with filters to facilitate informed decisions.
 
 📊 You can view the full survey responses [here](https://docs.google.com/spreadsheets/d/18C8Lrk0pwEsjByS-7obqHJb23tWlxP_VGB2JUes502Y/edit?usp=sharing).
 
