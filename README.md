@@ -44,28 +44,28 @@ In a survey conducted with 40 students at Escuela Amanecer, **52.5%** stated tha
 
 **Vocación360** addresses a complex issue across three dimensions: social, emotional, and technical—facing challenges due to the lack of reliable and accessible platforms.
 
-##### 🟣 **Striking Aesthetic with a Strong Visual Identity**
+#### 🟣 **Striking Aesthetic with a Strong Visual Identity**
 
 - Color palette: **purples, oranges, and yellows**  
 - A modern, immersive design that conveys **depth, energy, and modernity**
 
-##### 🧭 **Adapted Vocational Guidance Test**
+#### 🧭 **Adapted Vocational Guidance Test**
 
 - **Two distinct paths:**  
   1. For students who feel **completely lost**  
   2. For those deciding between **two options**
 
 - Realistic recommendations:  
-  > We won’t suggest Civil Engineering if you hate math!
+  + *We won’t suggest Civil Engineering if you hate math!*
 
-###### 🎲 **Gamified Degree Exploration**
+#### 🎲 **Gamified Degree Exploration**
 
 - **Interactive die** that presents random degree programs  
 - *Discover what you didn’t know you liked!*  
 > [!NOTE]  
 > It’s not about choosing at random, but broadening your perspective
 
-##### 🔍 **Degree Explorer and Comparator**
+#### 🔍 **Degree Explorer and Comparator**
 
 - Filters by: **location, tuition cost, or average salary**  
 - Visual cards with the most relevant information
@@ -103,6 +103,8 @@ Carlos Pradenas - Presenter
 - **Technical:** Lack of attractive and integrated guidance platforms.
 
 ![Value Proposition Canvas](./assets/value-prop-canvas.png)
+
+***
 
 ### 3.2. **UX Personas**  
 
