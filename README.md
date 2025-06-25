@@ -20,7 +20,8 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
   - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#7-surface)
   - [7.1. Interface Evolution](#71-interface-evolution)
-  - [7.2. High Definition Interfaces](#72-high-definition-interfaces)
+  - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
+  - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
 
 ---
 
@@ -240,10 +241,6 @@ Our second consideration was the target audience: high school students seeking v
 
 Additionally, between the wireframes and the final prototype, we made adjustments to margins and spacing to better align with web design standards seen in similar informational websites. These changes improve readability and the overall browsing experience.
 
-In our competitive benchmarking, we prioritized a cool color palette aligned with thoughtful decision-making. We also introduced value-added tools compared to our competitors: the ability to compare degree programs and download test results for free.
-
-Finally, the survey conducted at a public high school revealed that most students didn't know where to find information about scholarships and financial aid. To support them at this critical stage, we created the "Benefits" section, which compiles scholarships from international, municipal, and private institutions. It includes filters by university, admission scores, and tuition fees, and provides direct links to each program's official site. This feature reflects our belief that financial factors play a key role in students' decisions to apply for a degree.
-
 **Home Interface Evolution**
 
 The original home wireframe offered options for taking tests, exploring programs, and searching scholarships. In the high-definition version, a minimalist design was adopted with fewer visible buttons and a calming forest background in blue and turquoise tones. The navigation bar became collapsible, featuring a subtle orange hover effect.
@@ -261,10 +258,92 @@ The academic program view originally used side menus, but was redesigned with to
 
 Initially, test questions showed their number and multiple-choice options, along with the total count in the center. In the updated version, a progress bar was added and a Likert scale was used, providing a clearer and more intuitive way to measure user interest.
 
-
 ![Interest Test Interface Evolution](./assets/interest-test-interface-evolution.png)
 
-### 7.2. High Definition Interfaces
+**However, these represented the initial iterations of what would later become the final high-fidelity interfaces.**
+
+***
+
+#### Redesign of the navigable prototype
+
+When presenting the first version, it was concluded that while the prototype’s functionalities were structurally sound, it failed to convey what a tool aimed at high school students truly should.
+
+> *It did not address the students’ main fears. It overlooked the importance of visual design for a teenage audience, and most importantly, it lacked the soul that a prototype meant to guide one’s future should have.*
+
+For this reason, a new iteration was carried out, resulting in the current version—one that not only redefined functionalities but also reimagined the prototype’s identity.
+
+✅ **New purple-toned color palette:** Avoiding entirely blue tones, which can feel too formal, and reddish tones, which may undermine the tool’s seriousness.
+
+✅ **Branched vocational orientation test:** The previous version had neglected what should have been *the essence of Vocación360*: the ability to guide students from diverse backgrounds. This version includes:
+
+- Students who feel completely lost: *What are their interests? In which subjects do they perform well? Which ones do they avoid?*
+- Students who have options but can’t decide: *The dilemma between what they want and what others expect. Also, what are their routines? Their priorities? How aligned are they with that option?*
+
+✅ **Random search feature:** Aimed at opening students’ minds to paths they may have never considered, and helping them discover lesser-known fields within the country.
+
+✅ **Exploration and comparison of options:** Because informed decisions also require concrete data and comparative analysis.
+
+![Example Image](#)
+
+***
+
+### 7.2. Results of the Heuristic Evaluation
+
+A heuristic evaluation of *Vocación360* was conducted during its redesign phase, at a point where several features were still under development, such as the degree program comparator, test results, second test branching, and detailed degree program information. Despite this, the prototype already conveyed a clear visual identity. The evaluation yielded an average **SUS score of 68.75**, which we consider a promising result for the development stage.
+
+However, several usability issues were identified and addressed before reaching the final version. The most relevant ones are detailed below:
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The top navigation bar did not indicate the user’s current section. Additionally, the test lacked clear progress segmentation. | The top nav bar was updated to highlight the current section in orange and underline items on hover. The test was divided into distinct progress stages. |
+
+![Example Image](#)
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The test interface did not indicate completion progress, which is common in similar platforms. | A progress bar was added to each test stage across both branches. |
+
+![Example Image](#)
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Low visual contrast in selected buttons and lack of options like "Skip" in questions. | Button contrast was improved using green/red tones to reflect ease/difficulty. A "Skip" option was added in the identity section. |
+
+![Example Image](#)
+
+> [!IMPORTANT]  
+> The "Skip" option was only added in the identity section. In other parts of the test, where questions are multiple choice and essential for orientation, it was intentionally excluded.
+
+> [!NOTE]  
+> A suggestion was made to change button colors based on subjects, but it was discarded to preserve the consistent purple-toned visual identity of the site.
+
+---
+
+| **Problem**                                                  | **Solution**                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The main homepage image of a girl studying was not representative of the platform’s purpose and took up excessive space. | It was replaced with images of two students exploring their interests—reading and programming—and resized to better balance the layout. |
+
+![Example Image](#)
+
+---
+
+#### Additional heuristic-based improvements:
+
++ Footer section added.
++ Clear instructions on whether questions are single or multiple choice.
++ "Back" option included in each test stage.
++ Descriptive labels added to NavBar options.
++ References to official information sources included for data credibility.
+
+
+***
+### 7.3. High Definition Interfaces
 
 High-fidelity interfaces clearly showcase the project's visual style, content structure, and navigation flow. Additionally, animations and transitions are incorporated where appropriate, delivering a more realistic and immersive user experience.
 
