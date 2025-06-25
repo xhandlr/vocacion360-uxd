@@ -140,7 +140,7 @@ The goal was to identify the strengths and weaknesses of current solutions, both
 
 #### Types of platforms analyzed:
 
-- 🎓 **Direct competitors**: Platforms such as *MiFuturo* or *EligeCarrera*, which provide educational program information.
+- 🎓 **Direct competitor**: The platform *MiFuturo*, which provides educational program information.
 - ⚖️ **Visual comparison tools**: Services like *QuePlan* or *ComparaOnline*, valued for their clarity and organization.
 - 🖼️ **Aesthetic references**: Apps like *Airbnb*, known for their modern and minimalistic user experience.
 
