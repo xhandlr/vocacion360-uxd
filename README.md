@@ -209,24 +209,24 @@ The Vocación360 site map outlines a user-centered and streamlined structure des
 
 ### 6.1. Low-fidelity wireframes
 
-The wireframes developed represent an approximation of the structure and design of the interfaces associated with the committed functionalities. The main navigation between screens is carried out through a top navigation bar, which is present across all system interfaces.
+The wireframes developed serve as an initial approximation of the structure and visual layout of the interfaces tied to the system's core functionalities. Navigation between screens is primarily handled through a persistent top navigation bar, present across all interface screens.
 
-In general terms, the interfaces can be grouped into three main thematic categories:
+In the early iterations, the interfaces were organized into three main categories:
 
-🧭 Interfaces Related to degree programs
-These interfaces prioritize the use of tables to display structured and repetitive information, such as the characteristics and attributes of degree programs. Additionally, pie charts are used to present contextual information related to the composition of students enrolled in a program, as well as the academic weighting requirements needed to apply.
++ Interfaces related to degree programs.
 
-📝 Interfaces Related to Tests
-These interfaces follow a minimalist and straightforward design, centered around Likert-scale questions that allow users to express degrees of agreement or disagreement. The test results are presented using pie charts that show the user's affinity with different areas of knowledge, along with a concise description and clear recommendations. The goal is to ensure that users can easily understand the results through precise and actionable information.
++ Interfaces related to vocational tests.
 
-🎓 Interfaces Related to Student Benefits
-The information is organized into three main sections. In each section, the benefits available to users are presented with a brief description and links to official platforms. A filter bar is included to allow students to explore the available benefits based on their interests. The main objective is for users to clearly identify what benefits they can access, their type, and where to go for more information.
++ Interfaces related to student benefit.
 
-- 📁 **[Wireframes Workspace – Vocación360 (Figma)](https://www.figma.com/design/xzcIdIPWxBuT59i8s7O3t0/Wireframes-Vocación360?t=7C1t74Ojj2hCTtnC-1)**  
-  Complete set of low-fidelity wireframes in the shared Figma workspace
+📁 **[Wireframes Workspace – Vocación360 (Figma)](https://www.figma.com/design/xzcIdIPWxBuT59i8s7O3t0/Wireframes-Vocación360?t=7C1t74Ojj2hCTtnC-1)**  
+Complete set of initial low-fidelity wireframes available in the shared Figma workspace, including all early-stage interface concepts.
 
-- 📄 **[Low-Fi Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)**  
-  Complete set of low-fidelity wireframes for all main interfaces
+📄 **[Low-Fi Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)**  
+PDF version of the entire initial wireframe set, covering all main interface screens from the early design phase.
+
+As the design evolved, the student benefits section was removed. The focus shifted toward vocational tests, detailed degree information, random exploration features, and career comparison tools. *(This evolution is detailed in the next section).*
+
 ---
 
 ## 7. Surface
