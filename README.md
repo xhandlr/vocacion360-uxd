@@ -19,7 +19,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
 - [6. Skeleton](#6-skeleton)
   - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
 - [7. Surface](#7-surface)
-  - [7.1. Interface Evolution](#71-interface-evolution)
+  - [7.1. Interface Evolution](#71-ui-evolution)
   - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
   - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
 
@@ -245,20 +245,20 @@ Additionally, between the wireframes and the final prototype, we made adjustment
 
 The original home wireframe offered options for taking tests, exploring programs, and searching scholarships. In the high-definition version, a minimalist design was adopted with fewer visible buttons and a calming forest background in blue and turquoise tones. The navigation bar became collapsible, featuring a subtle orange hover effect.
 
-![Home Interface Evolution](./assets/home-interface-evolution.png)
+![Home Interface Evolution](./assets/home-ui-evolution.png)
 
 
 **Academic Program Interface Evolution**
 
 The academic program view originally used side menus, but was redesigned with top navigation buttons for greater consistency across sections. In the specific section on weightings, a donut chart was added to visually display the percentage value of each PAES component.
 
-![Weightings Interface Evolution](./assets/weightings-interface-evolution.png)
+![Weightings Interface Evolution](./assets/weightings-ui-evolution.png)
 
 **Interest Test Interface Evolution**
 
 Initially, test questions showed their number and multiple-choice options, along with the total count in the center. In the updated version, a progress bar was added and a Likert scale was used, providing a clearer and more intuitive way to measure user interest.
 
-![Interest Test Interface Evolution](./assets/interest-test-interface-evolution.png)
+![Interest Test Interface Evolution](./assets/interest-test-ui-evolution.png)
 
 **However, these represented the initial iterations of what would later become the final high-fidelity interfaces.**
 
@@ -283,8 +283,9 @@ For this reason, a new iteration was carried out, resulting in the current versi
 
 ✅ **Exploration and comparison of options:** Because informed decisions also require concrete data and comparative analysis.
 
-![Example Image](#)
+As the design was iterated, the home screen was updated to prioritize violet tones and more direct calls to action. However, further iterations were made following the heuristic evaluation *(see the next section)*.
 
+![Home UI Redesign and Evolution](./assets/redesign-home-ui-evolution.jpg)
 ***
 
 ### 7.2. Results of the Heuristic Evaluation
@@ -299,7 +300,7 @@ However, several usability issues were identified and addressed before reaching 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | The top navigation bar did not indicate the user’s current section. Additionally, the test lacked clear progress segmentation. | The top nav bar was updated to highlight the current section in orange and underline items on hover. The test was divided into distinct progress stages. |
 
-![Example Image](#)
+![Heuristic Evaluation Navbar](./assets/heuristic-evaluation-navbar.png)
 
 ---
 
@@ -307,7 +308,7 @@ However, several usability issues were identified and addressed before reaching 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | The test interface did not indicate completion progress, which is common in similar platforms. | A progress bar was added to each test stage across both branches. |
 
-![Example Image](#)
+![Heuristic Evaluation Progress Bar](./assets/heuristic-evaluation-progress-bar.png)
 
 ---
 
@@ -315,7 +316,7 @@ However, several usability issues were identified and addressed before reaching 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Low visual contrast in selected buttons and lack of options like "Skip" in questions. | Button contrast was improved using green/red tones to reflect ease/difficulty. A "Skip" option was added in the identity section. |
 
-![Example Image](#)
+![Heuristic Evaluation "Skip" Button and Contrast](./assets/heuristic-evaluation-skip-button-contrast.jpg)
 
 > [!IMPORTANT]  
 > The "Skip" option was only added in the identity section. In other parts of the test, where questions are multiple choice and essential for orientation, it was intentionally excluded.
@@ -329,7 +330,7 @@ However, several usability issues were identified and addressed before reaching 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | The main homepage image of a girl studying was not representative of the platform’s purpose and took up excessive space. | It was replaced with images of two students exploring their interests—reading and programming—and resized to better balance the layout. |
 
-![Example Image](#)
+![Heuristic Evaluation Home Page](./assets/heuristic-evaluation-home.png)
 
 ---
 
@@ -345,19 +346,30 @@ However, several usability issues were identified and addressed before reaching 
 ***
 ### 7.3. High Definition Interfaces
 
-High-fidelity interfaces clearly showcase the project's visual style, content structure, and navigation flow. Additionally, animations and transitions are incorporated where appropriate, delivering a more realistic and immersive user experience.
+After multiple iterations and the improvements guided by the heuristic evaluation, the final high-fidelity interfaces for **Vocación360** are presented below. These interfaces were built using atomic and composite components, along with a variety of component states to reflect different visual and interaction conditions.
 
-**Key highlights:**
+But now the key question is:
 
-- A **cool color palette** was chosen to convey a sense of calm, trust, and clarity throughout the user’s navigation.
-- Since certain elements are repeated across multiple screens, a set of **reusable components** was created to ensure visual consistency and simplify maintenance. These components include the filter bar, search bar, navigation bar, buttons, and more.
-- **Component variants** were designed to reflect different **visual states**, especially for interactive elements. For instance, buttons change color on hover, clearly indicating their interactivity and encouraging user engagement.
+> **Does this final prototype truly support high school students in their decision-making?**
+
+Revisiting our UX personas, we can now conclude the following:
+
+👥🔹 **Catalina González** can now follow the second path of the vocational test to explore and compare different **degree program** options, while also reviewing hard data through the degree program comparison tool.
+
+👥🔹 **Sofía Araya** is now able to show her family reliable data from the Ministry of Education to validate her chosen **degree program**. She can also filter program options based on the **Art** category, aligning with her interests.
+
+👥🔹 **Jorge Muñoz** can use the search bar to find engineering **degree programs** with shorter durations and more accessible tuition and enrollment fees. He can also view key scholarships directly within each university's degree information page.
+
+Below are the resources linked to the final high-fidelity interface designs:
 
 - 📁 **[Hi-Fi Interfaces Workspace – Vocación360 (Figma)](https://www.figma.com/design/Gxz3vWaPSxh9GKhD5ABmFu/Interfaces-Vocaci%C3%B3n360?t=7C1t74Ojj2hCTtnC-1)**  
-  Final high-fidelity interface designs available in the shared Figma workspace
-
+  Final high-fidelity interface designs available in the shared Figma workspace.
 - 📄 **[Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)**  
-  Final high-fidelity interface designs with visual style and interactions
+  PDF version containing the full set of final interfaces, including visual styles and interaction details.
+
+***
+
+![High Fidelity Home Interface](./assets/high-fidelity-home-interface.png)
 
 ---
 
