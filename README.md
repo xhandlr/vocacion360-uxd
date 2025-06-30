@@ -18,7 +18,7 @@ User Experience Design for Vocación360: A Vocational Guidance Platform for High
   - [5.1. Navigation Flow](#51-navigation-flow)
 - [6. Skeleton](#6-skeleton)
   - [6.1. Low-Fi Wireframes](#62-low-fi-wireframes)
-- [7. Surface](#7-surface)
+- [7. Surface](#z7-surface)
   - [7.1. Interface Evolution](#71-ui-evolution)
   - [7.2. Results of the Heuristic Evaluation](#72-results-of-the-heuristic-evaluation)
   - [7.3. High Definition Interfaces](#73-high-definition-interfaces)
@@ -170,21 +170,21 @@ These stages reflect the complete journey — from first contact to long-term pe
 
 **Customer Activities**
 
-The user explores key features of Vocación360 — comparing degree programs, discovering scholarships and benefits, and taking diagnostic tests. A key interface here is the academic program comparison screen, which lets users generate a downloadable table comparing two programs and their universities.
+The user explores the key features of Vocación360. They can take a vocational test, explore and compare careers, view detailed information about each one, and receive personalized results. A key interface is the career search engine, which includes a bar that allows searching by university degree name, university, location, and area of interest. The results are displayed in clear information cards, with tags and buttons that allow users to compare or view more details.
 
-![Compare degree programs](./assets/hd-compare-academic-programs.png)
+![Explore degree programs](./assets/hd-explore-degree-programs.png)
 
 **Customer Goals**
 
-The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers interest, strengths, and skills tests. These identify the user’s strongest areas and provide a list of recommended programs at the end of each test. The results can be downloaded locally.
+The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers tests for students who feel completely lost, as well as for those who are deciding between two or more options. At the end of the test, a personalized list is provided, showing the top careers that best match the student’s profile.
 
 ![Test Result](./assets/hd-test-result.png)
 
 **Touchpoints**
 
-The website interface is the primary point of contact with high school students. The home screen plays a key role, with a background in cool tones designed to inspire reflection and convey calm for students who may feel lost, anxious, or overwhelmed by the need to explore their true vocation and make decisions about their future.
+The website interface is the primary point of contact with high school students. The home screen plays a key role, featuring a background in shades of purple and navy blue, designed to feel modern and appealing to students. One of its key elements is a question cloud, which aims to guide users toward action by empathizing with their main concerns.
 
-![Home](./assets/hd-home.png)
+![Home](./assets/hd-home-section.png)
 
 ---
 
@@ -245,20 +245,20 @@ Additionally, between the wireframes and the final prototype, we made adjustment
 
 The original home wireframe offered options for taking tests, exploring programs, and searching scholarships. In the high-definition version, a minimalist design was adopted with fewer visible buttons and a calming forest background in blue and turquoise tones. The navigation bar became collapsible, featuring a subtle orange hover effect.
 
-![Home Interface Evolution](./assets/home-ui-evolution.png)
+![Home Interface Evolution](./assets/ui-evolution-home.png)
 
 
 **Academic Program Interface Evolution**
 
 The academic program view originally used side menus, but was redesigned with top navigation buttons for greater consistency across sections. In the specific section on weightings, a donut chart was added to visually display the percentage value of each PAES component.
 
-![Weightings Interface Evolution](./assets/weightings-ui-evolution.png)
+![Weightings Interface Evolution](./assets/ui-evolution-weightings.png)
 
 **Interest Test Interface Evolution**
 
 Initially, test questions showed their number and multiple-choice options, along with the total count in the center. In the updated version, a progress bar was added and a Likert scale was used, providing a clearer and more intuitive way to measure user interest.
 
-![Interest Test Interface Evolution](./assets/interest-test-ui-evolution.png)
+![Interest Test Interface Evolution](./assets/ui-evolution-interest-test.png)
 
 **However, these represented the initial iterations of what would later become the final high-fidelity interfaces.**
 
@@ -285,7 +285,7 @@ For this reason, a new iteration was carried out, resulting in the current versi
 
 As the design was iterated, the home screen was updated to prioritize violet tones and more direct calls to action. However, further iterations were made following the heuristic evaluation *(see the next section)*.
 
-![Home UI Redesign and Evolution](./assets/redesign-home-ui-evolution.jpg)
+![Home UI Redesign and Evolution](./assets/ui-evolution-redesign-home.jpg)
 ***
 
 ### 7.2. Results of the Heuristic Evaluation
