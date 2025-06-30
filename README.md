@@ -170,13 +170,13 @@ These stages reflect the complete journey — from first contact to long-term pe
 
 **Customer Activities**
 
-The user explores the key features of Vocación360. They can take a vocational test, explore and compare careers, view detailed information about each one, and receive personalized results. A key interface is the career search engine, which includes a bar that allows searching by university degree name, university, location, and area of interest. The results are displayed in clear information cards, with tags and buttons that allow users to compare or view more details.
+The user explores the key features of Vocación360. They can take a vocational test, explore and compare degree programs, view detailed information about each one, and receive personalized results. A key interface is the degree program search engine, which includes a bar that allows searching by university degree name, university, location, and area of interest. The results are displayed in clear information cards, with tags and buttons that allow users to compare or view more details.
 
 ![Explore degree programs](./assets/hd-explore-degree-programs.png)
 
 **Customer Goals**
 
-The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers tests for students who feel completely lost, as well as for those who are deciding between two or more options. At the end of the test, a personalized list is provided, showing the top careers that best match the student’s profile.
+The user’s goal is to identify the academic path that aligns best with their interests and abilities. To support this, Vocación360 offers tests for students who feel completely lost, as well as for those who are deciding between two or more options. At the end of the test, a personalized list is provided, showing the top degree programs that best match the student’s profile.
 
 ![Test Result](./assets/hd-test-result.png)
 
@@ -225,7 +225,7 @@ Complete set of initial low-fidelity wireframes available in the shared Figma wo
 📄 **[Low-Fi Wireframes – Vocación360 (PDF)](docs/wireframes-vocacion360.pdf)**  
 PDF version of the entire initial wireframe set, covering all main interface screens from the early design phase.
 
-As the design evolved, the student benefits section was removed. The focus shifted toward vocational tests, detailed degree information, random exploration features, and career comparison tools. *(This evolution is detailed in the next section).*
+**As the design evolved, the student benefits section was removed.** The focus shifted toward vocational tests, detailed degree information, random exploration features, and degree program comparison tools. *(This evolution is detailed in the next section).*
 
 ---
 
@@ -316,7 +316,7 @@ However, several usability issues were identified and addressed before reaching 
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Low visual contrast in selected buttons and lack of options like "Skip" in questions. | Button contrast was improved using green/red tones to reflect ease/difficulty. A "Skip" option was added in the identity section. |
 
-![Heuristic Evaluation "Skip" Button and Contrast](./assets/heuristic-evaluation-skip-button-contrast.jpg)
+![Heuristic Evaluation "Skip" Button and Contrast](./assets/heuristic-evaluation-skip-button-contrast.png)
 
 > [!IMPORTANT]  
 > The "Skip" option was only added in the identity section. In other parts of the test, where questions are multiple choice and essential for orientation, it was intentionally excluded.
@@ -362,8 +362,10 @@ Revisiting our UX personas, we can now conclude the following:
 
 Below are the resources linked to the final high-fidelity interface designs:
 
-- 📁 **[Hi-Fi Interfaces Workspace – Vocación360 (Figma)](https://www.figma.com/design/Gxz3vWaPSxh9GKhD5ABmFu/Interfaces-Vocaci%C3%B3n360?t=7C1t74Ojj2hCTtnC-1)**  
+- 📁 **[Hi-Fi Interfaces Workspace – Vocación360 (Figma)](https://www.figma.com/design/4I57N9A64JHSH1Dtd84zdq/Vocaci%C3%B3n360-Oficial?node-id=0-1&t=wOaWDC0mhClnA3tn-1)**  
   Final high-fidelity interface designs available in the shared Figma workspace.
+- 📁 **[Hi-Fi Prototype – Vocación360 (Figma)](https://www.figma.com/proto/4I57N9A64JHSH1Dtd84zdq/Vocaci%C3%B3n360-Oficial?node-id=4-35&p=f&t=sXmunY82mzXMwSdw-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A35)**  
+  Final high-fidelity prototype available in the shared Figma workspace.
 - 📄 **[Hi-Fi Interfaces – Vocación360 (PDF)](docs/hi-fi-interfaces-vocacion360.pdf)**  
   PDF version containing the full set of final interfaces, including visual styles and interaction details.
 
